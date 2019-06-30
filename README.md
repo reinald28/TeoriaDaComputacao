@@ -29,8 +29,6 @@
 
 ## Como compilar esse projeto.
 
- (OBS: Um arquivo já compilado encontra-se em: ./target/TeoriaDaComputacao.jar)
-
  1 - Via terminal, navegar até a pasta do projeto
  
  2 - executar: mvn clean package install
